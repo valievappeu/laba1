@@ -1,0 +1,1 @@
+print("I'll paint the kitchen neon, I'll brighten up the sky")
